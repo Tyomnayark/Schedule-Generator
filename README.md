@@ -53,8 +53,4 @@ java Checker example/simple/simple example/simple/simple.log
 
 ## Autors:
 
-[@etolmach](https://01.alem.school/git/etolmach)
-
-[@eismagulo](https://01.alem.school/git/eismagulo)
-
-
+[Tyomnayark](https://github.com/Tyomnayark)
