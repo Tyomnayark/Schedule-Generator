@@ -1,0 +1,11 @@
+board:7
+#board:2
+
+do_doorknobs:():(doorknobs:1):15
+do_background:(board:2):():20
+do_shelf:():():10
+do_cabinet:(doorknobs:2;background:1;shelf:3):(cabinet:1):30
+#do_cabinet:(doorknobs:2;background:1;shelf:3):(cabinet:1):30
+
+optimize:(time;cabinet)
+  #
