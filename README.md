@@ -2,7 +2,7 @@
 
 
 
-# STOCK-EXCHANGE-SIM
+# Schedule generator
 
 Optimization of Process Chain Scheduler
 
